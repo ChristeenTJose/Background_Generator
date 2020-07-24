@@ -6,7 +6,7 @@ Modules Required:
 * Random
 * NumPy
 
-### Source Code:
+### [Source Code](https://github.com/ChristeenTJose/Matrix-Animation-Using-Python/blob/master/Matrix.py):
 
 ```
 import cv2
