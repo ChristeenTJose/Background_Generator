@@ -6,6 +6,10 @@ Modules Required:
 * Random
 * NumPy
 
+### Sample Output:
+
+![](https://github.com/ChristeenTJose/Matrix-Animation-Using-Python/blob/master/Matrix.gif)
+
 ### [Source Code](https://github.com/ChristeenTJose/Matrix-Animation-Using-Python/blob/master/Matrix.py):
 
 ```
