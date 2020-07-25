@@ -32,6 +32,8 @@ def Transition_state():
 
 TS1=Transition_state()
 
+#cv2.imwrite('Wallpaper.png',TS1)
+
 T=1
 while T<=n:
 	TS2=Transition_state()
