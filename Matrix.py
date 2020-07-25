@@ -17,6 +17,7 @@ def Transition_state():
 
 TS1=Transition_state()
 
+#Input the value of n as 0 and uncomment below line to get a wallpaper as output
 #cv2.imwrite('Wallpaper.png',TS1)
 
 T=1
