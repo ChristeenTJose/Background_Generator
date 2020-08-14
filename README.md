@@ -1,7 +1,7 @@
 # Custom Random Background Genrator using Python
 A bit of fun with Python Programming.
 
-### Modules Required:
+## Modules Required:
 * Opencv
 * Random
 * NumPy
